@@ -23,3 +23,6 @@ Open the index.html file in a web browser to view the quiz.
 Optionally, edit the styles in the styles.css file to customize the appearance.
 Accessibility Considerations
 Reduced Motion: The project utilizes the @media (prefers-reduced-motion: no-preference) media query to apply smooth scrolling only when the user has not requested reduced motion.
+
+<img width="931" alt="access" src="https://github.com/user-attachments/assets/75b6c723-7c23-490a-8bbc-7623d3e3ccb6">
+
